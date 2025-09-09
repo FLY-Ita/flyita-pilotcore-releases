@@ -36,13 +36,10 @@ The app fetches live VATSIM datasets to detect pilot login/logout events, extrac
 Aggiungi tre immagini nella cartella `assets/images` (o modifica i percorsi qui sotto se le metti altrove).
 
 ![Cattura](./images/Capture.PNG)
-_Cattura_
 
 ![Cattura2](./images/Capture2.PNG)
-_Cattura2_
 
 ![Cattura3](./images/Capture3.PNG)
-_Cattura3_
 
 ## License
 Check repository settings / author in [package.json](package.json) for license and author details.
